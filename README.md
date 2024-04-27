@@ -46,3 +46,34 @@
     <li><strong>Feta Cheese:</strong> Feta cheese is relatively high in calories and fat, but it also provides calcium, protein, and vitamins like vitamin B12.</li>
 </ul>
 
+<h2>Macronutrients:</h2>
+<ul>
+    <li><strong>Calories:</strong> approximately 320-420 per serving</li>
+    <li><strong>Protein:</strong> 43-54g (from chicken breast and feta cheese)</li>
+    <li><strong>Fat:</strong> 24-30g (from avocado, feta cheese, and chicken breast)</li>
+    <li><strong>Carbohydrates:</strong> 10-12g (from bell peppers, cherry tomatoes, lettuce, and avocado)</li>
+</ul>
+
+<h2>Micronutrients:</h2>
+<ul>
+    <li><strong>Fiber:</strong> 6-8g (from avocado, bell peppers, lettuce, and cherry tomatoes)</li>
+    <li><strong>Sugar:</strong> 6-8g (naturally occurring from bell peppers, cherry tomatoes, and avocado)</li>
+    <li><strong>Sodium:</strong> 250-300mg (from feta cheese and chicken breast)</li>
+    <li><strong>Cholesterol:</strong> 80-100mg (from chicken breast and feta cheese)</li>
+</ul>
+
+<h2>Vitamins and Minerals:</h2>
+<ul>
+    <li><strong>Vitamin A:</strong> 20-25% of the Daily Value (DV) from bell peppers and cherry tomatoes</li>
+    <li><strong>Vitamin C:</strong> 50-60% of the DV from bell peppers and cherry tomatoes</li>
+    <li><strong>Calcium:</strong> 20-25% of the DV from feta cheese</li>
+    <li><strong>Iron:</strong> 25-30% of the DV from chicken breast and feta cheese</li>
+    <li><strong>Potassium:</strong> 20-25% of the DV from avocado and cherry tomatoes</li>
+</ul>
+
+<h2>Other nutrients:</h2>
+<ul>
+    <li><strong>Antioxidants:</strong> High amount of antioxidants from bell peppers, cherry tomatoes, and avocado</li>
+    <li><strong>Healthy fats:</strong> Good source of healthy fats from avocado and olive oil (not specified in the recipe, but commonly used in chicken salads)</li>
+</ul>
+
