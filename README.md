@@ -10,14 +10,9 @@
 </ul>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recipe: Avocado Blackberry Salad</title>
-</head>
-<body>
+
+
+
     <h2>Avocado Blackberry Salad</h2>
 
     <h3>Ingredients:</h3>
@@ -41,7 +36,6 @@
         Add the lettuce and olives to the frying pan and saute for another 2 minutes. <br>
         Serve with crackers.
     </p>
-</body>
-</html>
+
 
 ![e90fec26-2fe2-416f-8601-ce270c99769b](https://github.com/MadsAlk/Avocado/assets/86879749/02ad12ec-55fa-442c-b782-e36514cb86b1)
