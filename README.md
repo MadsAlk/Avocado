@@ -30,10 +30,9 @@
     Cut avocado into bite size pieces. <br>
     Cut cheese into bite size pieces.
 </p>
-<img src="https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3" alt="Image Description" width="300" height="200">
 
 
-![58670bf0-2c9c-4ea9-88bd-3250fdbbec6c](https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3)
+<img src="https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3" alt="Image Description" width="600" height="600">
 
 
 <h2>Nutritional Summary</h2>
