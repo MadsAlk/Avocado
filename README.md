@@ -30,6 +30,20 @@
     Cut avocado into bite size pieces. <br>
     Cut cheese into bite size pieces.
 </p>
+<img src="https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3" alt="Image Description" width="300" height="200">
 
 
 ![58670bf0-2c9c-4ea9-88bd-3250fdbbec6c](https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3)
+
+
+<h2>Nutritional Summary</h2>
+
+<ul>
+    <li><strong>Avocado:</strong> Avocados are rich in healthy fats, fiber, and various vitamins and minerals, including potassium and vitamins C, E, and K.</li>
+    <li><strong>Colorful Bell Peppers:</strong> Bell peppers are low in calories and rich in vitamins C and A, as well as antioxidants.</li>
+    <li><strong>Cherry Tomatoes:</strong> Cherry tomatoes are low in calories and rich in vitamins C and K, as well as antioxidants like lycopene.</li>
+    <li><strong>Grilled Chicken Breast:</strong> Grilled chicken breast is a lean source of protein and provides essential nutrients like niacin, vitamin B6, phosphorus, and selenium.</li>
+    <li><strong>Lettuce:</strong> Lettuce is low in calories and provides dietary fiber, vitamins A and K, folate, and various antioxidants.</li>
+    <li><strong>Feta Cheese:</strong> Feta cheese is relatively high in calories and fat, but it also provides calcium, protein, and vitamins like vitamin B12.</li>
+</ul>
+
