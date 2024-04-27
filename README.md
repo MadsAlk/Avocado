@@ -9,29 +9,29 @@
   <li>Users can also set health goals, restrictions, and preferences for a tailored meal experience.</li>
 </ul>
 
-<h2>Avocado Blackberry Salad</h2>
+<h2>Chicken Salad</h2>
 
 <h3>Ingredients:</h3>
 <ul>
     <li>1 avocado</li>
-    <li>1 blackberry</li>
-    <li>1 lettuce</li>
-    <li>1 olives</li>
-    <li>1 tbsp olive oil</li>
-    <li>1 crackers</li>
+    <li>2 colorful bell peppers</li>
+    <li>2 cherry tomatoes</li>
+    <li>1 lb. grilled chicken breast</li>
+    <li>1 lb. lettuce</li>
+    <li>1 lb. feta cheese</li>
 </ul>
 
 <h3>Directions:</h3>
 <p>
-    Cut the avocado in half and remove the pit. <br>
-    Cut the blackberry in half and remove the seeds. <br>
-    Cut the lettuce into bite sized pieces. <br>
-    Cut the olives in half and remove the pit. <br>
-    Add the olive oil to a frying pan and heat. <br>
-    Add the avocado and blackberry and saute for 2 minutes. <br>
-    Add the lettuce and olives to the frying pan and saute for another 2 minutes. <br>
-    Serve with crackers.
+    Cut chicken breast into bite size pieces. <br>
+    Cut lettuce into bite size pieces. <br>
+    Cut peppers into bite size pieces. <br>
+    Cut tomatoes into bite size pieces. <br>
+    Cut avocado into bite size pieces. <br>
+    Cut cheese into bite size pieces.
 </p>
 
+
+![58670bf0-2c9c-4ea9-88bd-3250fdbbec6c](https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3)
 
 ![e90fec26-2fe2-416f-8601-ce270c99769b](https://github.com/MadsAlk/Avocado/assets/86879749/02ad12ec-55fa-442c-b782-e36514cb86b1)
