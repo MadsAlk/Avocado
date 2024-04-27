@@ -33,5 +33,3 @@
 
 
 ![58670bf0-2c9c-4ea9-88bd-3250fdbbec6c](https://github.com/MadsAlk/Avocado/assets/86879749/2d8c3fd2-246d-4351-bb11-9778119e7af3)
-
-![e90fec26-2fe2-416f-8601-ce270c99769b](https://github.com/MadsAlk/Avocado/assets/86879749/02ad12ec-55fa-442c-b782-e36514cb86b1)
